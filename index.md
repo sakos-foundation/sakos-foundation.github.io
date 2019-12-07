@@ -5,9 +5,8 @@ Neděláme systémy pro finanční zisk. Děláme je pro vás.
 
 ## Co vyvíjíme?
 ### Open School System
-*Systém pro správu školy*
 
-### Open School System
+#### Open School System
 *Hlavní součást pro školy*
 
 Tento systém bude obsahovat:
@@ -19,7 +18,7 @@ Tento systém bude obsahovat:
 * Nástěnku
 * A spoustu dalšího
 
-### Open School System for Eateries
+#### Open School System for Eateries
 *Jídelní systém*
 
 Tento systém bude obsahovat:
@@ -27,7 +26,7 @@ Tento systém bude obsahovat:
 * Dobíjení účtu skrze několik platebních brán
 * Možnost objednávku stornovat/dát do burzy
 
-### Open School System for Students
+#### Open School System for Students
 *Volitelná část pro studenty*
 
 Tento systém bude obsahovat:
